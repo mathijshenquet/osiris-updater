@@ -1,0 +1,11 @@
+{
+  "name": "osiris-updater",
+  "version": "1.0.0",
+  "description": "Osiris rooster update script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Mathijs Henquet\" <mathijs.henquet@gmail.com>",
+  "license": "ISC"
+}
